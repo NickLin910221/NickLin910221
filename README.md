@@ -2,7 +2,9 @@ Hi, I’m @NickLin910221.
 
 I'm a student in Taiwan.
 
-I'm do my best to research and develope the Coding combined with the Finance.
+I'm do my best to research and develope the Side Projects.
+
+The type of Finance or Tools.
 
 Here is my Github to store the source code.
 
