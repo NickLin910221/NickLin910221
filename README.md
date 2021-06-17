@@ -8,6 +8,7 @@ Here is my Github to store the source code.
 
 If you have any good advice or comment, it's welcomed.
       
+E-mail:nicklin910221@gmail.com
 
 <!---
 NickLin910221/NickLin910221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
