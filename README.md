@@ -1,9 +1,12 @@
-- 👋  Hi, I’m @NickLin910221
-      I'm a student in Taiwan.
-      I'm do my best to research and develope the Coding combined with the Finance.
-      
-      Here is my Github to store the source code.
-      If you have any good advice or comment, it's weicomed.
+- 👋  Hi, I’m @NickLin910221.
+
+-     I'm a student in Taiwan.
+
+-     I'm do my best to research and develope the Coding combined with the Finance.
+
+-     Here is my Github to store the source code.
+ 
+-     If you have any good advice or comment, it's weicomed.
       
 
 <!---
