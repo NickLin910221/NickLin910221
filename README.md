@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nicklin910221@gmail.com**
 
-- 📄 Know about my experiences [https://dearestbee.tplinkdns.com/Resume.pdf](https://dearestbee.tplinkdns.com/Resume.pdf)
+- 📄 Know about my experiences [https://dearestbee.tplinkdns.com/resume.pdf](https://dearestbee.tplinkdns.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
